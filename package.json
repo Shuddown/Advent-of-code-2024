@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "typescript": "^5.7.3"
+  },
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "My solutions to the 2024 Advent of Code in C++, Go, and Lua(maybe)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuddown/Advent-of-code-2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shuddown/Advent-of-code-2024/issues"
+  },
+  "homepage": "https://github.com/Shuddown/Advent-of-code-2024#readme"
+}
